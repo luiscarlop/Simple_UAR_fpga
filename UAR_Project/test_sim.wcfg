@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Luiso/OneDrive/Escritorio/VHDL/UAR_Project/tb_UAR_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="tb_uar" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/tb_uar/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uar/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uar/rx_in" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rx_in</obj_property>
+      <obj_property name="ObjectShortName">rx_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uar/baud_sel" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">baud_sel</obj_property>
+      <obj_property name="ObjectShortName">baud_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uar/rx_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rx_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uar/rx_newdata" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rx_newdata</obj_property>
+      <obj_property name="ObjectShortName">rx_newdata</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uar/rx_error" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rx_error</obj_property>
+      <obj_property name="ObjectShortName">rx_error</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uar/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uar/uut/rsr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rsr[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rsr[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uar/uut/rx_nbits" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rx_nbits[3:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_nbits[3:0]</obj_property>
+   </wvobject>
+</wave_config>

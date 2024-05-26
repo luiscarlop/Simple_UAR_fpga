@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Luiso/OneDrive/Escritorio/VHDL/UAR_Project/tb_UAR_isim_beh.exe" -prj "C:/Users/Luiso/OneDrive/Escritorio/VHDL/UAR_Project/tb_UAR_beh.prj" "work.tb_UAR" 
